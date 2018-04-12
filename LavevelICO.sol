@@ -157,7 +157,7 @@ contract LavevelICO is Ownable {
     uint256 weiAmount = msg.value; // Calculate tokens to sell
     uint256 tokens = weiAmount.mul(RATE);
     
-    BoughtTokens(msg.sender, tokens); // log event onto the blockchain
+    emit BoughtTokens(msg.sender, tokens); // log event onto the blockchain
     raisedAmount = raisedAmount.add(msg.value); // Increment raised amount
     token.transfer(msg.sender, tokens); // Send tokens to buyer
     
