@@ -28,3 +28,11 @@ See also the list of [contributors]( https://github.com/halls7588/ERC20-Token-an
 ### License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+### Donations Excepted
+Send to:
+
+Bitcoin: 3FjpxkdTSrPz6KYk1oWf3yTFiZgei8eQ3X
+
+Ethereum: 0xa961d6886359df290B49d752405CbB7ac0adB123
+
