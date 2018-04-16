@@ -14,6 +14,8 @@ Make sure that you have an ERC20 compatible Ethereum wallet. Execute the token c
 
 You must have the tokens already created for this contract to work. 
 Make sure that you have an ERC20 compatible Ethereum wallet. Execute the ICO Contract code: For MyEtherWallet; past the token code into the remix online compiler. Copy the EVM code and past into the MyEtherWallet execute smart contract. pay the gas price. Next you will need to send the required number of tokens as stated in the smart contract variables to the initialize function of the smart contract. The smart contract should be ready to go at this point.
+This is a no-burn contract, meaning that all unsold tokens are returned to the owner of the contract at the end of the ICO/Crowdsale.
+Only the owner (Wallet that issued the contract) can destroy or terminate the contract.
 
 ### Contributing
 
