@@ -1,5 +1,5 @@
 # ERC20 Token and ICO Smart Contract
-This is a simple ERC20 token and Crowd sale/ICO Smart Contract written in Solidity. The Lavevel Token meets the ERC20 standard and is more secure than 90%+ of the ERC20 tokens out there today. All of the code has been fully tested and executed in a live environment. This token is free to use as you see fit. I called it Lavevel just because its a fun word to say. Call it what ever you want. 
+This is a simple ERC20 token and Crowd sale/ICO Smart Contract written in Solidity. The Lavevel Token meets the ERC20 standard. All of the code has been fully tested and executed in a live environment. This token is free to use as you see fit. I called it Lavevel just because its a fun word to say. Call it what ever you want. 
 
 ### Prerequisites
 A good foundation of Solidity or JavaScript will be extremely helpful but not required. A good understanding of Ethereum transactions and EVM is required or ability to use Google and quickly look up and understand needed information should be about all you will need. 
