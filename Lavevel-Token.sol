@@ -174,5 +174,7 @@ contract LavevelToken is Token {
   function LavevelToken() public {
     totalSupply = INITIAL_SUPPLY;
     balances[msg.sender] = INITIAL_SUPPLY;
+    emit Transfer(address(0), msg.sender, INITIAL_SUPPLY);
+
   }
 }
